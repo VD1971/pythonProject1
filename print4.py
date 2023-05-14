@@ -1,3 +1,3 @@
 print(0000)
-print(33333)
-print(777)
+print(111111)
+print(1777)
