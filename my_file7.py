@@ -1,2 +1,2 @@
 print(iii)
-print(////////////96666)
+print(//uuuuuuu//96666)
